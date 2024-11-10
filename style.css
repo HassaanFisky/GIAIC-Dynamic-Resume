@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#resume {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #0073e6;
+}
+
+h3 {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+ul {
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
+form input, form textarea {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+}
+
+form button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #005bb5;
+}
